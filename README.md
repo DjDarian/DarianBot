@@ -1,12 +1,12 @@
-ᴺᵒᵛᵃᴮᵒᵗ ᵗᵒᵈᵃᵛᶦ́ᵃ ⁿᵒ ᵉˢᵗᵃ́ ᵗᵉʳᵐᶦⁿᵃⁿᵈᵒ ✨
+DARIAN BOT ᵗᵒᵈᵃᵛᶦ́ᵃ ⁿᵒ ᵉˢᵗᵃ́ ᵗᵉʳᵐᶦⁿᵃⁿᵈᵒ ✨
 
 <p align="center"> 
-  <a href="https://github.com/elrebelde21"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=NovaBot-MD++%F0%9F%92%96;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"
+  <a href="https://github.com/DjDarian"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=Darian-Bot++%F0%9F%92%96;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"
 </p>
 
 ### `○ DUDAS SOBRE EL BOT?, CONTACTAME ✨`
-<a href="http://wa.me/5492266466080" target="blank"><img src="https://img.shields.io/badge/creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="http://wa.me/5214531173598" target="blank"><img src="https://img.shields.io/badge/Azami - Colaborador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="http://wa.me/543735634129" target="blank"><img src="https://img.shields.io/badge/creador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="http://wa.me/543735634129" target="blank"><img src="https://img.shields.io/badge/Azami - Colaborador-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 <p align="hihg">   
 <a href="https://instagram.com/gata_dios" target="_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> <img src="https://github.com/siegrin/siegrin/blob/main/Assets/Handshake.gif" height="30px"> 
@@ -62,8 +62,8 @@
 > pkg install ffmpeg && pkg install libwebp
 > pkg install nodejs
 > pkg install yarn
-> git clone https://github.com/elrebelde21/NovaBot-MD
-> cd NovaBot-MD
+> git clone https://github.com/DjDarian/DarianBot
+> cd DarianBot
 > npm install
 > yarn
 > npm start
@@ -73,7 +73,7 @@
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd NovaBot-MD
+> cd DarianBot
 > rm -rf session.data.json
 > npm start
 ```
@@ -106,7 +106,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 ```
 ## `𝐄𝐃𝐈𝐓𝐎𝐑 𝐘 𝐏𝐎𝐑𝐏𝐈𝐄𝐓𝐀𝐑𝐈𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓` 
-<a href="https://github.com/elrebelde21"><img src="https://github.com/elrebelde21.png" width="300" height="300" alt="elrebelde21"/></a>
+<a href="https://github.com/elrebelde21"><img src="file:///C:/Users/DjDarian/Desktop/NovaBot-MD-main/media/menu1.jpg" width="300" height="300" alt="elrebelde21"/></a>
 
 ## `👑Colaboradores👑` 
 [![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
