@@ -106,7 +106,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 ```
 ## `𝐄𝐃𝐈𝐓𝐎𝐑 𝐘 𝐏𝐎𝐑𝐏𝐈𝐄𝐓𝐀𝐑𝐈𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓` 
-<a href="https://github.com/elrebelde21"><img src="file:///C:/Users/DjDarian/Desktop/NovaBot-MD-main/media/menu1.jpg" width="300" height="300" alt="elrebelde21"/></a>
+<a href="https://github.com/DjDarian"><img src="https://www.reiq.com/wp-content/uploads/2020/06/image_hacker_new.png" width="300" height="300" alt="elrebelde21"/></a>
 
 ## `👑Colaboradores👑` 
 [![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
